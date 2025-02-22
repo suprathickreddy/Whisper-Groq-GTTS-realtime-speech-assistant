@@ -104,10 +104,6 @@ Follow these steps to set up the project:
 
 The program gracefully handles `SIGINT` (e.g., when pressing `Ctrl+C`), allowing for a smooth exit and cleanup of resources.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ### Notes
