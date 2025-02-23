@@ -109,3 +109,6 @@ The program gracefully handles `SIGINT` (e.g., when pressing `Ctrl+C`), allowing
 ### Notes
 - If you have any issues with dependencies like `pyaudio` on certain systems, check the [official PyAudio installation documentation](https://pypi.org/project/PyAudio/).
 - Ensure that the microphone and audio devices are properly configured for recording and playback.
+---
+## Contributing
+Contributions are welcome! Feel free to fork this repository and submit pull requests.
